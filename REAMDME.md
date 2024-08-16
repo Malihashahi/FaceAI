@@ -1,0 +1,1 @@
+this project deteciate face on image with AI
